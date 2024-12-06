@@ -1,3 +1,3 @@
 # local-repo
 this is my first git repo
-author=ashish sharma
+<p>author=ashish sharma</p>
